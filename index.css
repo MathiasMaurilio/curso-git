@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: .5em;
+}
